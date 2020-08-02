@@ -1114,7 +1114,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s6tvUqnVNL {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1210.jpg");
 }
 .cid-s6tvUqnVNL .icons-media-container {
   display: flex;
@@ -1620,39 +1620,31 @@ section.lazy-placeholder:after {
 .cid-s5m5KTAPHM .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-s5m69Z345r {
-  padding-top: 120px;
+.cid-s6uL0Gwi4x {
+  padding-top: 75px;
   padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-s5m69Z345r .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s5m69Z345r H2 {
-  text-align: center;
-}
-.cid-s5m6jDtF4L {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-s5m6jDtF4L .line {
   background-color: #232323;
-  color: #232323;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
 }
-.cid-s5m6jDtF4L .section-text {
-  padding: 2rem 0;
-  color: #232323;
+.cid-s6uL0Gwi4x .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
 }
-.cid-s5m6jDtF4L .inner-container {
-  margin: 0 auto;
+.cid-s6uL0Gwi4x .mbr-author-name {
+  font-weight: bold;
 }
-@media (max-width: 768px) {
-  .cid-s5m6jDtF4L .inner-container {
-    width: 100% !important;
+.cid-s6uL0Gwi4x .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-s6uL0Gwi4x .mbr-figure,
+  .cid-s6uL0Gwi4x img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-s6uL0Gwi4x .media-content {
+    padding-top: 1.5rem !important;
   }
 }
 .cid-s5m6IfRhQw {
@@ -3052,7 +3044,7 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-s6u8S4evS9 {
-  background-image: url("../../../assets/images/background3.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-s6u8S4evS9 h1 {
   color: #616161;
@@ -3064,6 +3056,13 @@ section.lazy-placeholder:after {
 }
 .cid-s6u8S4evS9 .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-s6u8S4evS9 H1 {
+  color: #ffffff;
+}
+.cid-s6u8S4evS9 .mbr-text,
+.cid-s6u8S4evS9 .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-s5m4HGEM6F .navbar {
   padding: .5rem 0;
